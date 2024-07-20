@@ -1,0 +1,126 @@
+a{
+    text-decoration: none;
+    color: aqua;
+}
+#head1{
+    height: 50px;
+    width: 365px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 940px;
+    text-align: center;
+    margin-top: 35px;
+}
+#hh{
+    margin-left: 40px;
+}
+.he{
+    display: flex;
+    height: 70px;
+    width: auto;
+    color: aqua;
+    position: fixed;
+    background-color: black;
+}
+#quo{
+    text-align: center;
+    border: 3px solid chartreuse;
+    height: 400px;
+    width: 1486px;
+}
+#quotes{
+    padding: 120px;
+}
+#bio{
+    text-align: center;
+    border: 3px solid chartreuse;
+    height: 400px;
+    width: 1486px;
+    background-color: rgb(10, 10, 10);
+}
+#portfolio{
+    text-align: center;
+    border: 3px solid chartreuse;
+    height: 400px;
+    width: 1486px;
+}
+hr{
+    width: 500px;
+}
+#img1{
+    margin-right: 1200px;
+    margin-top: 40px;
+    margin-left: 50px;
+
+}
+#carrier{
+    margin-top: -200px;
+    color: rgb(7, 241, 249);
+    width: 500px;
+
+
+   
+}
+#project{
+    width: 600px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+}
+#box1{
+    border: 3px solid black;
+    background: green;
+    width: 180px;
+    margin-left: 10px;
+}
+#cir1{
+    border-radius: 50%;
+    margin-top: 10px;
+}
+#pa{
+    color: white;
+}
+#dl{
+    margin-left: 250px;
+    margin: 550px;
+    width: 200px;
+    
+    border: 3px solid rgb(3, 251, 242);
+    border-radius: 50px;
+    color: rgb(2, 245, 224);
+    
+}
+
+#SKILLS{
+    text-align: center;
+    border: 3px solid chartreuse;
+    height: 300px;
+    width: 1486px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#contact{
+    text-align: center;
+    border: 3px solid chartreuse;
+    height: 250px;
+    width: 1486px;
+}
+#account{
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+    width: 120px;
+    margin-top: 20px;
+}
+#im{
+    height: 90px;
+    width: 150px;
+    
+}
+#carrier{
+    text-align: justify;
+    text-align: left;
+    margin-left: 520px;
+    font-size: larger;
+    
+}
